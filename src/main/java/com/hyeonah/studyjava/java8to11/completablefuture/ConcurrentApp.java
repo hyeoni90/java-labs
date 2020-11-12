@@ -1,4 +1,4 @@
-package com.hyeonah.studyjava.java8.completablefuture;
+package com.hyeonah.studyjava.java8to11.completablefuture;
 
 /**
  * Created by hyeonahlee on 2020-10-27.

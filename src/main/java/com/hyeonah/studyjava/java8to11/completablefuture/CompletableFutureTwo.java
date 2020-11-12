@@ -1,10 +1,7 @@
-package com.hyeonah.studyjava.java8.completablefuture;
+package com.hyeonah.studyjava.java8to11.completablefuture;
 
-import java.util.Arrays;
-import java.util.List;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutionException;
-import java.util.stream.Collectors;
 
 /**
  * Created by hyeonahlee on 2020-10-27.
@@ -15,9 +12,6 @@ import java.util.stream.Collectors;
  *  - allOf(): 여러 작업을 모두 실행하고 모든 작업 결과에 콜백 실행
  *  - anyOf(): 여러 작업 중에 가장 빨리 끝난 하나의 결과에 콜백 실행
  *
- * 예외처리
- *  - exceptionally(Function)
- *  - handle(BiFunction)
  */
 public class CompletableFutureTwo {
 
@@ -54,6 +48,7 @@ public class CompletableFutureTwo {
 //        List<CompletableFuture<String>> futures = Arrays.asList(hello, world);
 //        CompletableFuture[] futuresArray = futures.toArray(futures.toArray(new CompletableFuture[futures.size()]));
 //
+        // CompletableFuture::get CheckedException 으로 blocking 됨. / CompletableFuture::join UncheckedException!
 //        CompletableFuture<List<String>> results = CompletableFuture.allOf(futuresArray)
 //            .thenApply(v -> futures.stream()
 //                    .map(CompletableFuture::join)

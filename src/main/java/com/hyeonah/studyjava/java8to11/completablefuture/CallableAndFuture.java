@@ -1,4 +1,4 @@
-package com.hyeonah.studyjava.java8.completablefuture;
+package com.hyeonah.studyjava.java8to11.completablefuture;
 
 import java.util.Arrays;
 import java.util.List;
