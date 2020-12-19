@@ -5,7 +5,7 @@ package com.hyeonah.studyjava.algorithm.javaCodingTop50.graph.dfs;
  *
  * DFS > Stack
  */
-public class NumberOfIsland_DFS {
+public class NumberOfIslandWithDFS {
 
     public static void main(String[] args) {
         char[][] grid = {
@@ -15,8 +15,8 @@ public class NumberOfIsland_DFS {
             {'0', '0', '0', '0', '1'}
         };
 
-        NumberOfIsland_DFS numberOfIsland_dfs = new NumberOfIsland_DFS();
-        numberOfIsland_dfs.solution(grid);
+        NumberOfIslandWithDFS numberOfIslandWithdfs = new NumberOfIslandWithDFS();
+        numberOfIslandWithdfs.solution(grid);
     }
 
     private int solution(char[][] grid) {
