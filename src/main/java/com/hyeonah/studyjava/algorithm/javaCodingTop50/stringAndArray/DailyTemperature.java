@@ -1,6 +1,5 @@
 package com.hyeonah.studyjava.algorithm.javaCodingTop50.stringAndArray;
 
-import java.util.Arrays;
 import java.util.Stack;
 
 /**
