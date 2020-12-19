@@ -3,11 +3,7 @@ package com.hyeonah.studyjava.algorithm.javaCodingTop50.graph.dfs;
 /**
  * Created by hyeonahlee on 2020-12-19.
  *
- * DFS (너비 우선탐색..?)
- * {'1', '1', '1', '0', '1'}
- * {'1', '1', '1', '0', '0'}
- * {'1', '1', '0', '0', '0'}
- * {'0', '0', '0', '0', '1'}
+ * DFS > Stack
  */
 public class NumberOfIsland_DFS {
 
