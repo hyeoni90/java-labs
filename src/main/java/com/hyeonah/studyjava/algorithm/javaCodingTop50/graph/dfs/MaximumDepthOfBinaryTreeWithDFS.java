@@ -1,5 +1,6 @@
 package com.hyeonah.studyjava.algorithm.javaCodingTop50.graph.dfs;
 
+import com.hyeonah.studyjava.algorithm.javaCodingTop50.graph.TreeNode;
 import java.util.Stack;
 
 /**
@@ -7,10 +8,10 @@ import java.util.Stack;
  *
  * DFS stack
  */
-public class MaximumDepthOfBinaryTree {
+public class MaximumDepthOfBinaryTreeWithDFS {
 
     public static void main(String[] args) {
-        MaximumDepthOfBinaryTree maximumDepthOfBinaryTree = new MaximumDepthOfBinaryTree();
+        MaximumDepthOfBinaryTreeWithDFS maximumDepthOfBinaryTreeWithDFS = new MaximumDepthOfBinaryTreeWithDFS();
 
         TreeNode node = new TreeNode(1);
         node.left = new TreeNode(2);
@@ -19,7 +20,7 @@ public class MaximumDepthOfBinaryTree {
         node.right.right = new TreeNode(5);
         node.left.left.left = new TreeNode(6);
 
-        System.out.println("maxLevel: " + maximumDepthOfBinaryTree.dfs(node));
+        System.out.println("maxLevel: " + maximumDepthOfBinaryTreeWithDFS.dfs(node));
     }
 
     private int dfs(TreeNode root) {
@@ -53,12 +54,3 @@ public class MaximumDepthOfBinaryTree {
     }
 }
 
-class TreeNode {
-
-    int val;
-    TreeNode left, right;
-
-    TreeNode(int x) {
-        this.val = x;
-    }
-}
