@@ -1,4 +1,4 @@
-package com.hyeonah.studyjava.algorithm.javaCodingTop50.graph;
+package com.hyeonah.studyjava.algorithm.top50coding.graph;
 
 public class TreeNode {
 

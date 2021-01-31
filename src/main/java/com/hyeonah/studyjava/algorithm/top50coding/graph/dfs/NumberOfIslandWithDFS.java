@@ -1,4 +1,4 @@
-package com.hyeonah.studyjava.algorithm.javaCodingTop50.graph.dfs;
+package com.hyeonah.studyjava.algorithm.top50coding.graph.dfs;
 
 /**
  * Created by hyeonahlee on 2020-12-19.

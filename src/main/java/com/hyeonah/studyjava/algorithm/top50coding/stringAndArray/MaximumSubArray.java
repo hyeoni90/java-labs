@@ -1,4 +1,4 @@
-package com.hyeonah.studyjava.algorithm.javaCodingTop50.stringAndArray;
+package com.hyeonah.studyjava.algorithm.top50coding.stringAndArray;
 
 /**
  * subArray 중 합이 제일 큰 수 return

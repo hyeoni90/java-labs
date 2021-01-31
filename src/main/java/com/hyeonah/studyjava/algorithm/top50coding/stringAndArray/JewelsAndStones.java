@@ -1,4 +1,4 @@
-package com.hyeonah.studyjava.algorithm.javaCodingTop50.stringAndArray;
+package com.hyeonah.studyjava.algorithm.top50coding.stringAndArray;
 
 import java.util.HashSet;
 import java.util.Set;

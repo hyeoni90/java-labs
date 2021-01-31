@@ -1,6 +1,4 @@
-package com.hyeonah.studyjava.algorithm.javaCodingTop50.stringAndArray;
-
-import org.w3c.dom.ls.LSOutput;
+package com.hyeonah.studyjava.algorithm.top50coding.stringAndArray;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;

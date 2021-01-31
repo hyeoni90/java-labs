@@ -1,4 +1,4 @@
-package com.hyeonah.studyjava.algorithm.javaCodingTop50.graph.bfs;
+package com.hyeonah.studyjava.algorithm.top50coding.graph.bfs;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -1,4 +1,4 @@
-package com.hyeonah.studyjava.algorithm.javaCodingTop50.linkedlist;
+package com.hyeonah.studyjava.algorithm.top50coding.linkedlist;
 
 /**
  * Created by hyeonahlee on 2020-12-19.

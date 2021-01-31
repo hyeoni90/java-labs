@@ -1,4 +1,4 @@
-package com.hyeonah.studyjava.algorithm.javaCodingTop50.queueandstack;
+package com.hyeonah.studyjava.algorithm.top50coding.queueandstack;
 
 import java.util.Stack;
 

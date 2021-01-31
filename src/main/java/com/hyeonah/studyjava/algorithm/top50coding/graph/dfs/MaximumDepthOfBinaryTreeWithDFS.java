@@ -1,6 +1,6 @@
-package com.hyeonah.studyjava.algorithm.javaCodingTop50.graph.dfs;
+package com.hyeonah.studyjava.algorithm.top50coding.graph.dfs;
 
-import com.hyeonah.studyjava.algorithm.javaCodingTop50.graph.TreeNode;
+import com.hyeonah.studyjava.algorithm.top50coding.graph.TreeNode;
 import java.util.Stack;
 
 /**
