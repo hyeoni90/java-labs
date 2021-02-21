@@ -1,1 +1,1 @@
-# study-java
+# java-labs
