@@ -1,6 +1,6 @@
-package com.hyeonah.javalabs.designpattern.strategy;
+package com.hyeonah.javalabs.designpattern.strategypattern;
 
-import com.hyeonah.javalabs.designpattern.strategy.move.MovingStrategy;
+import com.hyeonah.javalabs.designpattern.strategypattern.move.MovingStrategy;
 
 /**
  * Created by hyeoni90 on 2021-03-03

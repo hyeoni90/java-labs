@@ -1,4 +1,4 @@
-package com.hyeonah.javalabs.designpattern.strategy;
+package com.hyeonah.javalabs.designpattern.strategypattern;
 
 /**
  * Created by hyeoni90 on 2021-03-03

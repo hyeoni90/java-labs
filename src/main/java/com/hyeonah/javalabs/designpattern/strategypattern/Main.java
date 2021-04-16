@@ -1,8 +1,8 @@
-package com.hyeonah.javalabs.designpattern.strategy;
+package com.hyeonah.javalabs.designpattern.strategypattern;
 
-import com.hyeonah.javalabs.designpattern.strategy.move.Fly;
-import com.hyeonah.javalabs.designpattern.strategy.move.Swim;
-import com.hyeonah.javalabs.designpattern.strategy.move.Walk;
+import com.hyeonah.javalabs.designpattern.strategypattern.move.Fly;
+import com.hyeonah.javalabs.designpattern.strategypattern.move.Swim;
+import com.hyeonah.javalabs.designpattern.strategypattern.move.Walk;
 
 /**
  * Created by hyeoni90 on 2021-03-03

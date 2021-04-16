@@ -1,4 +1,4 @@
-package com.hyeonah.javalabs.designpattern.singleton.ex1;
+package com.hyeonah.javalabs.designpattern.singletonpattern.ex1;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
