@@ -30,8 +30,8 @@
 |행위 패턴 | 커맨드 (Command) / 옵저버 (Observer) / 스트래티지 (Strategy) / 템플릿 메서드 (Template Method) / 메멘토 (Memento) / 스테이트 (State) / 인터프리터 (Interpreter) / 이터레이터 (Iterator) / 미디에이터 (Mediator) / 책임 연쇄 (Chain of Responsibility) |
 
 ## 디자인 패턴 종류 
-* [Strategy Pattern (전략 패턴)](src/main/java/com/hyeonah/javalabs/designpattern/strategypattern/README.md)
-* [Builder Pattern (빌더 패턴)](src/main/java/com/hyeonah/javalabs/designpattern/builderpattern/README.md)
+* [Strategy Pattern (전략 패턴)](https://github.com/hyeoni90/java-labs/tree/main/src/main/java/com/hyeonah/javalabs/designpattern/strategypattern)
+* [Builder Pattern (빌더 패턴)](https://github.com/hyeoni90/java-labs/tree/main/src/main/java/com/hyeonah/javalabs/designpattern/builderpattern)
 
 # References
 - [자바 객체지향 디자인 패턴 : UML과 GoF 디자인 패턴 핵심 10가지로 배우는](http://www.yes24.com/Product/Goods/12501269?OzSrank=5)
